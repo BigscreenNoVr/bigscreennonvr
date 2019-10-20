@@ -1,4 +1,4 @@
-# bigscreennonvr
+# BigscreenNonVr
 Here you can find the command line to use Bigscreen VR without a headset.
 
 Make a .bat file or run bigscreen with this command :
