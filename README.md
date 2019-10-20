@@ -5,5 +5,5 @@ Make a .bat file or run bigscreen with this command :
 
 start ./Bigscreen.exe -logFile "./Bigscreen_Data/output_log.txt" -popupwindow -usertype streamer
 
-*Must be run within the bigscreen steam directory*
+*Must be run within the bigscreen steam directory.*
 *Thats is !!*
