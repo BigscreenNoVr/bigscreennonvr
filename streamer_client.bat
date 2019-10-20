@@ -1,0 +1,1 @@
+start ./Bigscreen.exe -logFile "./Bigscreen_Data/output_log.txt" -popupwindow -usertype streamer
